@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "641113532603",
+    "project_id": "impulse-ac197",
+    "storage_bucket": "impulse-ac197.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641113532603:android:34974cd7dd17a46eb5a19e",
+        "android_client_info": {
+          "package_name": "com.impulse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641113532603-44jbmfpdiskvt4ef9hb9vj1qjvqjfrm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.impulse",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "641113532603-j94vff86gujc0g4r0fcdjn0p4du469qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4HVOEFfow2i9JXHac_3vQX2BGOy6mrmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641113532603-j94vff86gujc0g4r0fcdjn0p4du469qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
